@@ -12,11 +12,11 @@ Yandex Music Visualizer - это веб-приложение для прослу
 
 ## Стек
 
-- React + TypeScript;
-- React Router;
-- Zustand;
-- Zod;
-- CSS-переменные и собственный UI-кит в стиле Хекслета.
+- React + TypeScript
+- React Router
+- Zustand
+- Zod
+- CSS-переменные и собственный UI-кит в стиле Хекслета
 
 ## Архитектура
 
